@@ -1,17 +1,17 @@
 id: doc_home
-type: pages
-schemaVersion: 1
 route:
   path: /
-title: Homepage
+schemaVersion: 1
 sections:
-  - id: sec_hero
+  - description: Build pages with real frontend components.
+    heading: Editoriall work, without the machinery showing.
+    id: sec_hero
     type: hero
     version: 1
-    heading: Editorial work, without the machinery showing.
-    description: Build pages with real frontend components.
-  - id: sec_proof
+  - description: Every Change moves through review and staging before it goes live.
+    heading: A clear path to publication
+    id: sec_proof
     type: proof
     version: 1
-    heading: A clear path to publication
-    description: Every Change moves through review and staging before it goes live.
+title: Homepage
+type: pages
