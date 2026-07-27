@@ -10,10 +10,8 @@ sections:
     version: 1
     heading: Editorial work, without the machinery showing.
     description: Build pages with real frontend components.
-  - id: sec_plans
-    type: pricingGrid
+  - id: sec_proof
+    type: proof
     version: 1
-    heading: Plans that grow with the team
-    bindings:
-      plans:
-        collection: plans
+    heading: A clear path to publication
+    description: Every Change moves through review and staging before it goes live.
