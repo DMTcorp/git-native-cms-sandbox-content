@@ -1,0 +1,10 @@
+baseBranch: main
+baseCommit: b5f608eb01f4ed1cf088594c7e5fc1da0be86c68
+branchName: cms/dmtcorp/sandbox
+createdAt: 2026-07-27T14:56:25.167Z
+description: A real Git-backed Change created by the public hosted playground.
+id: chg_01KYJ17FJGHTSXAW5T05Y9RF7D
+name: Sandbox editorial change
+ownerId: act_00000000000000000023638128
+status: draft
+updatedAt: 2026-07-27T14:56:25.167Z
