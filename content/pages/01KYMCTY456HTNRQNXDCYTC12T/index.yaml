@@ -1,0 +1,16 @@
+id: doc_01KYMCTY456HTNRQNXDCYTC12T
+locales:
+  pl-PL:
+    route:
+      path: /pl-PL/akceptacja-2026-07-28T12-57-35-479Z-98a29137
+    title: Strona akceptacyjna 2026-07-28T12-57-35-479Z-98a29137
+route:
+  path: /acceptance-2026-07-28T12-57-35-479Z-98a29137
+schemaVersion: 1
+sections:
+  - description: Created through the same application command used by the editor.
+    heading: Git-native content, proven live
+    id: hero-2026-07-28T12-57-35-479Z-98a29137
+    type: hero
+title: Acceptance page 2026-07-28T12-57-35-479Z-98a29137
+type: pages
