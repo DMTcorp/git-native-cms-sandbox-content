@@ -1,0 +1,12 @@
+baseBranch: main
+baseCommit: 0969c10046cb9d246c30209ff41d9f394529b84e
+branchName: cms/live-editor/live-acceptance-2026-07-28t12-57-35-479z-98a2913-131e45f8
+createdAt: 2026-07-28T12:57:37.662Z
+description: Automated end-to-end proof across GitHub, Vercel and R2.
+id: chg_01KYMCTP3YAZE7SWAC1M5XTY2F
+name: Live acceptance 2026-07-28T12-57-35-479Z-98a29137
+ownerId: act_live_editor
+pullRequestNumber: 13
+pullRequestUrl: https://github.com/DMTcorp/git-native-cms-sandbox-content/pull/13
+status: staging
+updatedAt: 2026-07-28T12:58:40.674Z
