@@ -6,5 +6,7 @@ description: Automated end-to-end proof across GitHub, Vercel and R2.
 id: chg_01KYMCP746M04K33JJ0VSW6JRY
 name: Live acceptance 2026-07-28T12-55-08-625Z-f714f533
 ownerId: act_live_editor
-status: draft
-updatedAt: 2026-07-28T12:55:11.239Z
+pullRequestNumber: 8
+pullRequestUrl: https://github.com/DMTcorp/git-native-cms-sandbox-content/pull/8
+status: in_review
+updatedAt: 2026-07-28T12:55:44.756Z
