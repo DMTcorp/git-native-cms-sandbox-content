@@ -1,0 +1,9 @@
+id: doc_01KYMCDA2ZYW8JA7NH3TQRAYJY
+key: pricing
+plans:
+  - currency: EUR
+    name: Editorial
+    price: 49
+schemaVersion: 1
+title: Pricing 2026-07-28T12-50-03-221Z-bf6071a2
+type: globals
