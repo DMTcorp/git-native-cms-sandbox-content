@@ -1,0 +1,10 @@
+baseBranch: main
+baseCommit: b5f608eb01f4ed1cf088594c7e5fc1da0be86c68
+branchName: cms/live-editor/live-acceptance-2026-07-28t12-44-26-272z-48b919c-b59074ef
+createdAt: 2026-07-28T12:44:28.517Z
+description: Automated end-to-end proof across GitHub, Vercel and R2.
+id: chg_01KYMC2KF51ZQEM875JQWMK4CM
+name: Live acceptance 2026-07-28T12-44-26-272Z-48b919c0
+ownerId: act_live_editor
+status: draft
+updatedAt: 2026-07-28T12:44:28.517Z
